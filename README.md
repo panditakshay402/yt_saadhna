@@ -10,11 +10,14 @@ pip install django djangorestframework google-cloud-speech google-api-python-cli
 # create a virtual environment
 ```bash
 virtualenv -p python3 venv
+
 ```
 
 # activate the virtual environment
 ```bash
 source venv/bin/activate
+.\venv\Scripts\activate
+
 ```
 
 # install dependencies
